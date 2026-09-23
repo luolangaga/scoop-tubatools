@@ -1,5 +1,5 @@
 {
-    "version": "1.5.3",
+    "version": "1.6.4",
     "description": "图吧工具箱WinUI3 —— 基于 WinUI 3 的免费开源硬件检测与系统维护工具箱，内置 CPU-Z、GPU-Z、AIDA64、CrystalDiskMark 等大量便携版检测工具，支持实时硬件监控与 FPS 悬浮窗。",
     "homepage": "https://tubawinui3.cn",
     "license": "GPL-3.0",
@@ -11,10 +11,10 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.5.3/TubaWinUi3_Portable_1.5.3_x64.zip"
+            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.6.4/TubaWinUi3_Portable_1.6.4_x64.zip"
         },
         "arm64": {
-            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.5.3/TubaWinUi3_Portable_1.5.3_arm64.zip"
+            "url": "https://github.com/luolangaga/tubatools/releases/download/v1.6.4/TubaWinUi3_Portable_1.6.4_arm64.zip"
         }
     },
     "bin": [
